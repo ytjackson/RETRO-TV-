@@ -16,4 +16,4 @@ Um Web Player de alto desempenho com estética Retro-Futurista (Glassmorphism), 
 ## 🚀 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/ytjackson/RETRO-TV-.git(https://github.com/ytjackson/RETRO-TV-.git)
+   git clone https://github.com/ytjackson/RETRO-TV-.git
